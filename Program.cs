@@ -4,7 +4,7 @@ using Telegram.Bot.Extensions.Polling;
 using Telegram.Bot.Types.ReplyMarkups;
 using Telegram.Bot.Types;
 
-//string token = "5547982888:AAFN0hoWwHf07vmtqV72Sho8d5rgd3uR8XY";
+//string token = "5547982888:AAFN0hoWwHf07vmtqV72Sho8d5rgd3uR8XY"
 
 
 ITelegramBotClient bot = new TelegramBotClient("5547982888:AAFN0hoWwHf07vmtqV72Sho8d5rgd3uR8XY");
